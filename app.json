@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Calcify",
+    "slug": "calcify",
+    "version": "1.0.0",
+    "scheme": "calcify",
+    "owner": "bytewise0405",
+    "orientation": "portrait",
+    "assetBundlePatterns": ["**/*"],
+    "userInterfaceStyle": "automatic",
+    "plugins": [
+      "expo-router",
+      "@react-native-firebase/app",
+      "@react-native-firebase/crashlytics"
+    ],
+    "android": {
+      "versionCode": 1,
+      "package": "com.bytewise.calcify",
+      "googleServicesFile": "./google_services.json",
+      "adaptiveIcon": {
+        "backgroundColor": "#00CED1",
+        "foregroundImage": "./assets/app/adaptive_icon.png"
+      }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "2383e03e-fbe2-4f8d-beb3-895350ea00df"
+      }
+    }
+  }
+}

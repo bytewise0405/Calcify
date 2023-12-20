@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923121611398",
+    "project_id": "calcify-7c2cd",
+    "storage_bucket": "calcify-7c2cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923121611398:android:ac3bfd7a8ed8eeb5115707",
+        "android_client_info": {
+          "package_name": "com.bytewise.calcify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfVw9RgpAEttYBHxE7Rbl7U5tiLQeJE38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
